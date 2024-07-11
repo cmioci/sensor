@@ -1,2 +1,2 @@
 # sensor
-AnsaldoSTS - IoT sensor condizionamento, prove test RasPi
+IoT sensor - condizionamento, prove test RasPi
